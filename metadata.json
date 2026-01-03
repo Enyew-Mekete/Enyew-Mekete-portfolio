@@ -1,0 +1,8 @@
+{
+  "name": "DevPort - Pro Developer Portfolio",
+  "description": "A high-performance, responsive developer portfolio featuring a dark/light mode, project showcase, experience timeline, and a Gemini-powered personal AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
