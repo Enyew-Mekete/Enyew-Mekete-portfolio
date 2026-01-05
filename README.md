@@ -5,7 +5,17 @@
 Welcome to my professional portfolio website! 
 This project is a high-performance, responsive web application built to showcase my skills, projects, and professional journey as a Full-Stack Developer.
 
-🎨 Frontend Development
+🎨 Frontend Development                                                                                                       
+                                                                                                       ⚙️ Backend Development
+                                                                                                       
+                                                                                                       ![alt text](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+                                                                                                       
+                                                                                                       ![alt text](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+                                                                                                       
+                                                                                                       ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+                                                                                                       
+                                                                                                       ![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -20,16 +30,6 @@ This project is a high-performance, responsive web application built to showcase
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-⚙️ Backend Development
-
-![alt text](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 🗄️ Database Management
 
