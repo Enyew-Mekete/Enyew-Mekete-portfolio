@@ -3,6 +3,7 @@
 🚀 Modern Full-Stack Portfolio
 
 Welcome to my professional portfolio website! This project is a high-performance, responsive web application built to showcase my skills, projects, and professional journey as a Full-Stack Developer.
+
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -12,14 +13,9 @@ Welcome to my professional portfolio website! This project is a high-performance
 ![alt text](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 🌐 Live Demo
+
 Check out the live site here: enyew-mekete.github.io/Enyew-Mekete-portfolio/
-✨ Key Features
-AI Integration: Features an AI Task Planner powered by the Google Gemini API.
-Responsive Design: Fully optimized for mobile, tablet, and desktop views.
-Dynamic Project Showcase: Categorized projects with links to live demos and source code.
-Certification Gallery: Displays professional certifications from Cisco Networking Academy and Great Learning.
-Dark/Light Mode: Seamless theme switching for better user experience.
-Automated Deployment: Optimized for GitHub Pages using Vite.
+
 
 🛠️ Tech Stack
 Frontend: React 18, TypeScript, Tailwind CSS
