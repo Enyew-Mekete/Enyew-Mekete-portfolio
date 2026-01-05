@@ -51,5 +51,33 @@ GitHub: @enyew-mekete
 LinkedIn: [Your LinkedIn Profile]
 
 📄 License
+
+🚀 About Me
+🎯 Passionate Full Stack Developer | Tech Visionary | 3+ Years experience
+
+🔥 Full Stack Developer skilled in MERN, GraphQL, RESTful APIs, and AI-driven solutions
+👨‍💻 Backend expert with strong skill in Nodejs and Databases
+🏢 Full stack Developer Intern at CodeCraft Infotech (Completed successfully)
+🎓 Computer Science Graduate from Bonga University
+🚀 Founder of Hosaina Tech Solutions — Driving Ethiopia’s Tech Forward
+💡 Dream Big, Build Bigger!
+💬 “Innovate. Build. Lead.”
+
+🛠 Tech Stack
+🚀 Frontend:
+React Next.js TailwindCSS
+
+💻 Backend and Database:
+Node.js Express.js MongoDB GraphQL SQL
+
+🛠 Tools & DevOps:
+Git GitHub Docker Postman
+
+📊 GitHub Status and Streak
+GitHub Stats
+GitHub Streak
+
+📩 Contact Me
+Email LinkedIn Twitter GitHub
 This project is licensed under the MIT License - see the LICENSE file for details.
 Created with ❤️ by Enyew Mekete
