@@ -25,18 +25,6 @@ This project is a high-performance, responsive web application built to showcase
  enyew-mekete.github.io/Enyew-Mekete-portfolio/
 
 
-🛠️ Tech Stack
-
-Frontend: React 18, Next.js, TypeScript, Tailwind CSS
-
-💻 Backend and Database:
-
-Node.js Express.js  PostgreSQL MongoDB GraphQL SQL
-
-🛠 Tools & DevOps:
-
-Vite,Git GitHub Docker Postman,
-
 Deployment: GitHub Pages
 
 
