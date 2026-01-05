@@ -15,13 +15,15 @@ This project is a high-performance, responsive web application built to showcase
 
 🌐 Live Demo
 
-Check out the live site here: enyew-mekete.github.io/Enyew-Mekete-portfolio/
+ enyew-mekete.github.io/Enyew-Mekete-portfolio/
 
 
 🛠️ Tech Stack
+
 Frontend: React 18, Next.js, TypeScript, Tailwind CSS
 
 💻 Backend and Database:
+
 Node.js Express.js  PostgreSQL MongoDB GraphQL SQL
 
 🛠 Tools & DevOps:
@@ -29,23 +31,6 @@ Vite,Git GitHub Docker Postman,
 Icons: Lucide React / Custom SVGs
 AI Engine: Google Gemini AI API
 Deployment: GitHub Pages
-
-
-🚀 Getting Started
-1. Clone the repository
-code
-Bash
-git clone https://github.com/enyew-mekete/Enyew-Mekete-portfolio.git
-cd Enyew-Mekete-portfolio
-2. Install dependencies
-code
-Bash
-npm install
-3. Set up Environment Variables
-Create a .env file in the root directory and add your API keys:
-code
-Env
-GEMINI_API_KEY=your_api_key_here
 
 
 👨‍💻 Author
@@ -57,11 +42,7 @@ GitHub: @enyew-mekete
 LinkedIn: [Your LinkedIn Profile]
 
 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 Created with ❤️ by Enyew Mekete
 
-
-📩 Contact Me
-Email LinkedIn Twitter GitHub
-This project is licensed under the MIT License - see the LICENSE file for details.
-Created with ❤️ by Enyew Mekete
