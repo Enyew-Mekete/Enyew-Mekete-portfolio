@@ -2,7 +2,8 @@
 
 🚀 Modern Full-Stack Portfolio
 
-Welcome to my professional portfolio website! This project is a high-performance, responsive web application built to showcase my skills, projects, and professional journey as a Full-Stack Developer.
+Welcome to my professional portfolio website! 
+This project is a high-performance, responsive web application built to showcase my skills, projects, and professional journey as a Full-Stack Developer.
 
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -18,8 +19,13 @@ Check out the live site here: enyew-mekete.github.io/Enyew-Mekete-portfolio/
 
 
 🛠️ Tech Stack
-Frontend: React 18, TypeScript, Tailwind CSS
-Build Tool: Vite
+Frontend: React 18, Next.js, TypeScript, Tailwind CSS
+
+💻 Backend and Database:
+Node.js Express.js  PostgreSQL MongoDB GraphQL SQL
+
+🛠 Tools & DevOps:
+Vite,Git GitHub Docker Postman,
 Icons: Lucide React / Custom SVGs
 AI Engine: Google Gemini AI API
 Deployment: GitHub Pages
@@ -51,31 +57,9 @@ GitHub: @enyew-mekete
 LinkedIn: [Your LinkedIn Profile]
 
 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+Created with ❤️ by Enyew Mekete
 
-🚀 About Me
-🎯 Passionate Full Stack Developer | Tech Visionary | 3+ Years experience
-
-🔥 Full Stack Developer skilled in MERN, GraphQL, RESTful APIs, and AI-driven solutions
-👨‍💻 Backend expert with strong skill in Nodejs and Databases
-🏢 Full stack Developer Intern at CodeCraft Infotech (Completed successfully)
-🎓 Computer Science Graduate from Bonga University
-🚀 Founder of Hosaina Tech Solutions — Driving Ethiopia’s Tech Forward
-💡 Dream Big, Build Bigger!
-💬 “Innovate. Build. Lead.”
-
-🛠 Tech Stack
-🚀 Frontend:
-React Next.js TailwindCSS
-
-💻 Backend and Database:
-Node.js Express.js MongoDB GraphQL SQL
-
-🛠 Tools & DevOps:
-Git GitHub Docker Postman
-
-📊 GitHub Status and Streak
-GitHub Stats
-GitHub Streak
 
 📩 Contact Me
 Email LinkedIn Twitter GitHub
