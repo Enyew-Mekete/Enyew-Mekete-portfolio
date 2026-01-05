@@ -29,8 +29,7 @@ Node.js Express.js  PostgreSQL MongoDB GraphQL SQL
 🛠 Tools & DevOps:
 
 Vite,Git GitHub Docker Postman,
-Icons: Lucide React / Custom SVGs
-AI Engine: Google Gemini AI API
+
 Deployment: GitHub Pages
 
 
@@ -41,7 +40,7 @@ Role: Full Stack Developer
 Education: Bonga University (CS)
 Company: En-Tech S.C.
 GitHub: @enyew-mekete
-LinkedIn: [https://www.linkedin.com/in/enyew-mekete-106308372]
+LinkedIn: https://www.linkedin.com/in/enyew-mekete-106308372
 
 📄 License
 
