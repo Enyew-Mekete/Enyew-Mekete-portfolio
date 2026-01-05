@@ -27,6 +27,7 @@ Frontend: React 18, Next.js, TypeScript, Tailwind CSS
 Node.js Express.js  PostgreSQL MongoDB GraphQL SQL
 
 🛠 Tools & DevOps:
+
 Vite,Git GitHub Docker Postman,
 Icons: Lucide React / Custom SVGs
 AI Engine: Google Gemini AI API
@@ -34,12 +35,13 @@ Deployment: GitHub Pages
 
 
 👨‍💻 Author
+
 Enyew Mekete
 Role: Full Stack Developer
 Education: Bonga University (CS)
 Company: En-Tech S.C.
 GitHub: @enyew-mekete
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: [https://www.linkedin.com/in/enyew-mekete-106308372]
 
 📄 License
 
